@@ -20,3 +20,4 @@
 53- Detector de Palíndromo
 54- Grupo da Maioridade
 55- Maior e menor da sequência
+56- Análise completa
