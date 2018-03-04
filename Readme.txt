@@ -24,3 +24,4 @@
 57- Validação de Dados
 58- Jogo da adivinhação 2.0
 59- Criando um Menu de Opções
+60 - Cálculo Fatorial
