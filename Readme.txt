@@ -21,3 +21,5 @@
 54- Grupo da Maioridade
 55- Maior e menor da sequência
 56- Análise completa
+57- Validação de Dados
+58- Jogo da adivinhação 2.0
